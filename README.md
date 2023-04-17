@@ -32,7 +32,7 @@ $ python
 ```
 
 ## Usage
-Every time you change [intents.json](intents.json), retrain your model:
+Every time you change [intents.json](intents.json) & after cloning the repository for the first time, train your model:
 ```console
 python train.py
 ```
