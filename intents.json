@@ -1,0 +1,141 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hello! Welcome to the NASA Chatbot :-)",
+        "Hi there, thanks for reaching out to NASA. How can I help you?",
+        "Greetings! This is the NASA Chatbot. What can I assist you with?",
+        "Hey there! Welcome to the NASA Chatbot. How can I help you today?",
+        "Hello! I'm the NASA Chatbot. Let me know how I can assist you."
+      ]
+    },
+    {
+      "tag": "space_missions",
+      "patterns": [
+        "Tell me about recent space missions",
+        "What are the latest space missions?",
+        "Can you give me information about current space missions?",
+        "What space missions is NASA working on?",
+        "List some recent NASA missions"
+      ],
+      "responses": [
+        "Here are some of our recent space missions: Mars Rover, Artemis, and the James Webb Space Telescope. Which one would you like to know more about?",
+        "NASA is currently working on a few space missions, such as Mars Rover, Artemis, and the James Webb Space Telescope. Let me know if you need more information on any of them.",
+        "Our latest space missions include Mars Rover, Artemis, and the James Webb Space Telescope. If you have any questions, feel free to ask!",
+        "Some ongoing NASA missions are Mars Rover, Artemis, and the James Webb Space Telescope. Let me know if you'd like more information on any of these missions.",
+        "NASA's recent space missions include Mars Rover, Artemis, and the James Webb Space Telescope. Let me know which one you want to learn more about."
+      ]
+    },
+    {
+      "tag": "astronomy",
+      "patterns": [
+        "What are some interesting facts about space?",
+        "Tell me more about the universe",
+        "What is the most recent discovery in astronomy?",
+        "Give me some cool space facts",
+        "What's new in astronomy?"
+      ],
+      "responses": [
+        "The universe is vast and full of fascinating discoveries. Some interesting facts include the fact that there are over 100 billion galaxies in the observable universe, and that the Milky Way galaxy alone contains around 300 billion stars.",
+        "One recent discovery in astronomy is the detection of phosphine in the atmosphere of Venus, which suggests the possibility of microbial life. However, more research is needed to confirm this finding.",
+        "Did you know that the largest known star, UY Scuti, is about 1,700 times larger than our Sun? It's just one of the many incredible wonders of the universe!",
+        "Astronomers have discovered thousands of exoplanets, which are planets that orbit stars outside of our solar system. Some of these exoplanets are located within their star's habitable zone, where conditions might be suitable for life.",
+        "A recent discovery in astronomy is the first photograph of a black hole, which was captured by the Event Horizon Telescope. This incredible achievement has provided valuable insights into these mysterious celestial objects."
+      ]
+    },
+    {
+      "tag": "nasa_projects",
+      "patterns": [
+        "What projects is NASA currently working on?",
+        "Tell me about NASA's ongoing projects",
+        "Can you give me information about NASA's current projects?",
+        "What are some active NASA projects?",
+        "What's new at NASA?"
+      ],
+      "responses": [
+        "NASA has several ongoing projects, including the Artemis program, which aims to land astronauts on the Moon and establish a sustainable human presence there. Another project is the James Webb Space Telescope, which will be the largest and most powerful space telescope ever built.",
+        "Some of NASA's current projects include the Mars Rover mission, which is exploring the surface of Mars, and the Artemis program, which aims to return humans to the Moon. Additionally, NASA is working on the James Webb Space Telescope, set to launch soon.",
+        "NASA is actively working on projects like the Mars Rover, Artemis program, and the James Webb Space Telescope. Each of these projects aims to expand our understanding of space and the universe.",
+        "A few of NASA's ongoing projects are the Mars Rover mission, the Artemis program for lunar exploration, and the James Webb Space Telescope, designed to observe distant galaxies and star formations.",
+        "Current NASA projects include the Mars Rover mission for exploring Mars, the Artemis program to establish a sustainable human presence on the Moon, and the James Webb Space Telescope, which will revolutionize our understanding of the universe."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thank you",
+        "Thanks",
+        "I appreciate your help",
+        "Thanks for the information",
+        "Thank you for your assistance"
+      ],
+      "responses": [
+        "You're welcome! If you have any more questions, feel free to ask.",
+        "No problem, happy to help! Let me know if you need any more information.",
+        "Glad I could assist! If you have any other questions, don't hesitate to reach out.",
+        "You're welcome! If you need more assistance, just let me know.",
+        "It's my pleasure! If you have more questions, I'm here to help."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "I have to go now",
+        "Talk to you later"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "Bye! If you have any more questions in the future, don't hesitate to reach out.",
+        "See you later! If you need any more information, feel free to come back.",
+        "Take care! If you have any more questions, we're here to help.",
+        "Talk to you later! Remember, we're always here to assist you with your space-related inquiries."
+      ]
+    },
+    {
+      "tag": "education",
+      "patterns": [
+        "How can I learn more about space?",
+        "What resources are available to study astronomy?",
+        "Can you recommend some books about space?",
+        "What are some good websites to learn about astronomy?",
+        "Where can I find educational material on space and astronomy?"
+      ],
+      "responses": [
+        "NASA's official website is a great resource to learn about space and astronomy. You can find a wealth of information, educational materials, and multimedia content there.",
+        "Some popular books about space and astronomy include 'A Brief History of Time' by Stephen Hawking, 'Cosmos' by Carl Sagan, and 'Astrophysics for People in a Hurry' by Neil deGrasse Tyson.",
+        "You can find online courses about space and astronomy on platforms like Coursera and edX. Many universities also offer astronomy courses that you can take to deepen your knowledge.",
+        "The Hubble Space Telescope website offers amazing images and information about celestial objects and phenomena. The European Space Agency's (ESA) website also provides valuable resources on space exploration and astronomy.",
+        "For educational material on space and astronomy, you can check out resources like the American Museum of Natural History's Hayden Planetarium, the Space Telescope Science Institute, and the Jet Propulsion Laboratory's website."
+      ]
+    },
+    {
+      "tag": "career",
+      "patterns": [
+        "How can I work for NASA?",
+        "What are the qualifications to work at NASA?",
+        "What kind of jobs are available at NASA?",
+        "Can you tell me about NASA internships?",
+        "How can I start a career in space exploration?"
+      ],
+      "responses": [
+        "To work for NASA, you typically need a strong background in science, engineering, or a related field. Depending on the position, you may need a bachelor's, master's, or doctoral degree.",
+        "NASA offers a wide range of job opportunities, including positions for engineers, scientists, technicians, administrators, and more. You can check the NASA Jobs website for current openings and application information.",
+        "NASA internships are available for high school, undergraduate, and graduate students in various fields like engineering, science, and business. You can learn more about these opportunities and apply through the NASA Internships website.",
+        "To start a career in space exploration, it's essential to focus on STEM (Science, Technology, Engineering, and Mathematics) subjects and gain relevant experience through internships, research projects, or other hands-on activities.",
+        "Networking with professionals in the space industry and attending conferences or workshops can also help you learn about job opportunities and get your foot in the door for a career in space exploration."
+      ]
+    }
+  ]
+}
