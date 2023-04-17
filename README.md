@@ -1,5 +1,9 @@
 # Chatbot-PyTorch-NLP
 
+## Watch the Video
+![Alt text](https://github.com/atakhan27/Chatbot-PyTorch-NLP/blob/main/chatbot-visualization.png)
+https://drive.google.com/file/d/1TxEdSG4zEIP4LABtF90uKjJUYII0tncy/view?usp=share_link
+
 ## Installation
 
 ### Create an environment
